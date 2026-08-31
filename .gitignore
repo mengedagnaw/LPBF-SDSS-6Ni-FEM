@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Large FEM/Exodus binary outputs
+*.e
+Exodus_files.zip
+data/exodus/raw/
+
+# Local analysis artefacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
