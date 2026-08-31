@@ -14,4 +14,4 @@ The authoritative Exodus databases are:
 
 Their SHA-256 hashes, sizes, timestep counts, and selected field-evolution indices are recorded in `EXODUS_DATA_MANIFEST.csv`.
 
-The complete `Exodus_files.zip` archive will be distributed separately as a GitHub Release asset.
+The complete `Exodus_files.zip` archive will be distributed separately as a GitHub Release asset. 
