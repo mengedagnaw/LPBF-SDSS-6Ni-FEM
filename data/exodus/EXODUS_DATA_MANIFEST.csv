@@ -1,0 +1,6 @@
+condition,filename,size_bytes,size_MiB,time_steps,selected_time_indices,sha256,preserve,role
+AS,AS.e,144271400,137.59,484,42;59;483,d813fd31a6507cc8fcee5e260ac9f0408954b119196ee97e4d0e85c80e34a4f1,YES,Authoritative spatial FEM field history for AS condition
+SR350,SR350.e,155565992,148.36,522,56;73;521,4a019e6ee5eb63143d73c5c632a6a88ce289535ec480c6a42004ef5f50911be9,YES,Authoritative spatial FEM field history for SR350 condition
+SR425,SR425.e,140704792,134.19,472,48;65;471,8333941878465301109c57e9d1e3729b2ad0f7361ec7c02811f1aa96cdc1efd4,YES,Authoritative spatial FEM field history for SR425 condition
+SR525,SR525.e,166266056,158.56,558,51;67;557,aef90272f6640bdf9c0375f97b54a1bec683c74a2c8dae34894a7066b9df9e16,YES,Authoritative spatial FEM field history for SR525 condition
+SA1150,SA1150.e,395425760,377.11,1329,33;58;1328,82cfc65ddedcc0badda97161c7659b42c2800e8233ce90b3656358cfe69b5556,YES,Authoritative spatial FEM field history for SA1150 condition
